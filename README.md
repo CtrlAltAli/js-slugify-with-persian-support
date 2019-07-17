@@ -1,4 +1,4 @@
-# JavaScript convert string to slug with Persian support
+# JavaScript convert string to slug with Persian support (تولید اسلاگ با پشتیبانی از زبان فارسی)
 
 ## Introduction
 
@@ -8,7 +8,8 @@
 
 ## Code Samples
 
->     function slug(titleStr){
+>     
+            function slug(titleStr){
             titleStr = titleStr.replace(/^\s+|\s+$/g, '');
             titleStr = titleStr.toLowerCase();
            //persian support

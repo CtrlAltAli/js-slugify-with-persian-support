@@ -9,7 +9,7 @@
 ## Code Samples
 
 >     
-            function slug(titleStr){
+     function slug(titleStr){
             titleStr = titleStr.replace(/^\s+|\s+$/g, '');
             titleStr = titleStr.toLowerCase();
            //persian support
@@ -18,8 +18,7 @@
                 .replace(/\s+/g, '-')
                 // Collapse dashes
                 .replace(/-+/g, '-');
-            var slugstr=titlestr;
-            return slugstr;       
+            return titleStr;       
     }
 
 ## Installation

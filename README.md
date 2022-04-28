@@ -1,4 +1,4 @@
-# JavaScript convert string to slug with Persian support (تولید اسلاگ با پشتیبانی از زبان فارسی)
+# JavaScript convert string to URL slug with Persian support (تولید اسلاگ مناسب URL با پشتیبانی از زبان فارسی)
 
 ## Introduction
 
